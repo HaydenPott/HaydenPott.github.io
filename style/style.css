@@ -30,6 +30,7 @@ font-family: 'Rubik', sans-serif;
   margin: 0px;
   padding: 0px;
   font-family: "Roboto", sans-serif;
+  color: var(--font-color);
 }
 
 html {
@@ -81,6 +82,7 @@ div.about {
 div.about > h1 {
   font-size: 4em;
   color: var(--font-color);
+  margin-bottom: 50px;
 }
 
 nav > a {
@@ -100,20 +102,20 @@ nav > a:hover {
   left: 0;
 }
 #home {
-  top: 20px;
+  top: calc(50vh - 120px);
   background-color: #4caf50;
 }
 #about {
-  top: 80px;
+  top: calc(50vh - 60px);
   background-color: #2196f3;
 }
 #projects {
-  top: 140px;
+  top: 50vh;
   background-color: #2196f3;
 }
 
 #contact {
-  top: 200px;
+  top: calc(50vh + 60px);
   background-color: #f44336;
 }
 
@@ -138,6 +140,7 @@ p.main{
 }
 
 .clearfix::after {
+    margin-top: 50px;
     content: "";
     clear: both;
     display: table;
@@ -152,6 +155,9 @@ p#about-text{
 img#profile-pic{
     float:left;
 }
+
+
+
 
 /* Toggle Switch Styling */
 .switch {

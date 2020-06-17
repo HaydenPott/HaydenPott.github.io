@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;stroke:#000000;stroke-miterlimit:10;}
+	.st2{display:inline;}
+	.st3{display:inline;fill:#FFFFFF;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="Large_x5F_Black_x5F_Outline">
+	<g id="Layer_1_1_" class="st0">
+		
+			<image style="display:inline;overflow:visible;enable-background:new    ;" width="1330" height="1243" xlink:href="CE8E45FC.jpeg"  transform="matrix(0.3997 0 0 0.3997 29.0561 0)">
+		</image>
+	</g>
+	<g id="Layer_2_1_" class="st0">
+		<rect x="690.5" y="47.5" class="st1" width="78" height="40"/>
+		<rect x="59.5" y="-0.5" class="st1" width="40" height="78"/>
+		<rect x="133.5" y="-30.5" class="st1" width="40" height="78"/>
+		<rect x="39.5" y="87.5" class="st1" width="40" height="78"/>
+		<rect x="192.5" y="60.5" class="st1" width="40" height="78"/>
+		<rect x="173" y="209" class="st2" width="79" height="390"/>
+		<rect x="173" y="363" class="st2" width="314" height="81"/>
+		<rect x="331" y="209" class="st2" width="78" height="389"/>
+		<rect x="331" y="209" class="st2" width="156" height="81"/>
+		<circle class="st2" cx="487" cy="327" r="117"/>
+		<circle class="st3" cx="486.5" cy="326.5" r="34"/>
+		<rect x="409" y="292" class="st3" width="78" height="68"/>
+	</g>
+	<path class="st4" d="M550,25H325v300H175V25H25v750h150V475h150v300h150V475h75c124.3,0,225-100.7,225-225S674.3,25,550,25z
+		 M550,325h-75V175h75c41.4,0,75,33.6,75,75S591.4,325,550,325z"/>
+</g>
+<g id="Large_x5F_Black_x5F_Bold" class="st0">
+	<g class="st2">
+		<path d="M550,25H325v300H175V25H25v750h150V475h150v300h150V475h75c124.3,0,225-100.7,225-225S674.3,25,550,25z M550,325h-75V175
+			h75c41.4,0,75,33.6,75,75S591.4,325,550,325z"/>
+	</g>
+</g>
+<g id="Layer_2" class="st0">
+	<rect x="442.8" y="345.3" class="st5" width="50" height="250"/>
+	<rect x="542.8" y="495.3" class="st5" width="50" height="100"/>
+	<path class="st5" d="M617.8,345.3h-75v100h-50v50h125c41.4,0,75-33.6,75-75S659.3,345.3,617.8,345.3z M617.8,445.3h-25v-50h25
+		c13.8,0,25,11.2,25,25S631.6,445.3,617.8,445.3z"/>
+	<path class="st5" d="M617.8,395.3h-25v50h25c13.8,0,25-11.2,25-25S631.6,395.3,617.8,395.3z"/>
+	<line class="st5" x1="543.3" y1="445.3" x2="593.3" y2="445.3"/>
+	<rect x="192.8" y="495.3" class="st5" width="50" height="100"/>
+	<path class="st5" d="M267.8,345.3h-75v100h-50v-100h-50v250h50v-100h125c41.4,0,75-33.6,75-75S309.3,345.3,267.8,345.3z
+		 M267.8,445.3h-25v-50h25c13.8,0,25,11.2,25,25S281.6,445.3,267.8,445.3z"/>
+	<path class="st5" d="M267.8,395.3h-25v50h25c13.8,0,25-11.2,25-25S281.6,395.3,267.8,395.3z"/>
+	<line class="st5" x1="242.8" y1="445.3" x2="193.3" y2="445.3"/>
+</g>
+</svg>

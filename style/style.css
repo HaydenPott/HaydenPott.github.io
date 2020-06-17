@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Roboto|Rubik&display=swap');
+
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Rubik', sans-serif; 
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    background: #000;
+}
+
+div.home {
+    background: url("../img/background.jpg") no-repeat center/cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+div.homeMenu {
+    text-align: center;
+    padding: 150px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.homeMenu>h1 {
+    font-size: 6em;
+    color: white;
+}
+
+div.homeMenu>ul>li>a {
+    color: lightgrey;
+    text-decoration: none;
+    font-size: 1.5em;
+    transition: font-size .5s;
+}
+
+div.homeMenu>ul>li>a:hover {
+    color: white;
+    font-size: 1.9em;
+}
+
+div.homeMenu>ul>li {
+    padding-top: 10px;
+}
+
+nav>ul>li {
+    display: inline;
+    /* color: white; */
+    padding: 0px 10px;
+}
+
+nav>ul>li>a {
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+nav>ul>li>a:hover {
+    color: lightgrey;
+    font-size: 2.1em;
+}
+
+nav {
+    background: #666;
+    /* min-height: 60px; */
+    border-bottom: 3px solid #99e265;
+    width: 100vw;
+    padding: 50px;
+    padding-right: 100px;
+}
+
+nav>ul {
+    float: right;
+    padding-right: 100px;
+}

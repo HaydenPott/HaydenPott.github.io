@@ -30,20 +30,20 @@ div.homeMenu {
 }
 
 div.homeMenu>h1 {
-    font-size: 6em;
+    font-size: 8em;
     color: white;
 }
 
 div.homeMenu>ul>li>a {
     color: lightgrey;
     text-decoration: none;
-    font-size: 2em;
-    transition: font-size .5s;
+    font-size: 3em;
+    transition: font-size .25s;
 }
 
 div.homeMenu>ul>li>a:hover {
     color: white;
-    font-size: 2.5em;
+    font-size: 4em;
 }
 
 div.homeMenu>ul>li {

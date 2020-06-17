@@ -87,9 +87,9 @@ div.about > h1 {
 
 nav > a {
   position: fixed;
-  left: -130px;
+  left: -133px;
   transition: left 0.5s;
-  padding: 15px;
+  padding: 15px 25px;
   width: 150px;
   font-size: 20px;
   color: white;
@@ -98,7 +98,7 @@ nav > a {
   font-family: 'Rubik', sans-serif; 
 }
 
-nav > a:hover {
+nav > a:hover, nav>a.selected{
   left: 0;
 }
 #home {

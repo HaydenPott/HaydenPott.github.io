@@ -26,10 +26,21 @@ function toggleDarkMode(){
         const toggle = document.getElementById("dark-mode-toggle").checked;
         localStorage.setItem("theme", toggle ? "dark" : "light");
     }
+    updateTheme()
 }
 
 
 function updateTheme(){
     document.documentElement.setAttribute("data-theme", localStorage.getItem("theme"))
 
+    if(document.getElementById("dark-mode-toggle")){
+        const toggle = document.getElementById("dark-mode-toggle");
+        if (localStorage.getItem("theme") == "dark") {
+            toggle.checked = true;
+        } else if (localStorage.getItem("theme") == "light") {
+            toggle.checked = false;
+        }
+    }
 }
+
+detectColorScheme();
